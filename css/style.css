@@ -1,0 +1,54 @@
+html{
+
+}
+body{
+
+}
+header {
+  background-color: #330000;
+  height: 50px;
+  font-size: 1.5rem;
+}
+.logo_image {
+  width: 110px;
+  margin: 0;
+}
+
+.form{
+    background-color: #FFBEDA;
+}
+
+table{
+  border-spacing: 0px;
+  border-collapse: separate;
+  width: auto;
+  height: auto;
+  padding-top: 30px;
+
+}
+th{
+  width: 200px;
+  line-height: 3rem;
+  font-weight: bold;
+  text-align: right;
+  font-size: 100%;
+  padding: 0px 10px 0px 0px
+}
+td{
+  width: 200px;
+  line-height: 3rem;
+}
+
+input.name{
+  width:480px;
+  height:1rem;
+ }
+
+input.form{
+  width:480px;
+  height:1rem;
+}
+.send{
+  display: block;
+  margin: 0 auto;
+}
